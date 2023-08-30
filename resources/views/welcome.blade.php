@@ -21,7 +21,7 @@
                   </div>
                   <div class="flex-grow-1 ms-3">
                     <h5 class="mb-1">Ronald Hermansyah</h5>
-                    <p class="mb-2 pb-1" style="color: #2b2a2a;">Atlit Pencak Silat</p>
+                    <p class="mb-2 pb-1" style="color: #2b2a2a;">Atlit Pencak Silat sh</p>
                     <div class="d-flex justify-content-start rounded-3 p-2 mb-2"
                       style="background-color: #efefef;">
                       <div>
